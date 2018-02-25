@@ -1,0 +1,1 @@
+With structs Rust is smart enough to be able to do disjoint borrows so
